@@ -27,7 +27,7 @@ public class Temperature {
     private int year;
 
     @Text
-    private double int;
+    private double temperature;
 
     public String getTempClass() {
         return tempClass;
@@ -68,4 +68,13 @@ public class Temperature {
     public void setYear(int year) {
         this.year = year;
     }
+
+    public double getTemperature() {
+        return temperature;
+    }
+
+    public void setTemperature(double temperature) {
+        this.temperature = temperature;
+    }
+
 }

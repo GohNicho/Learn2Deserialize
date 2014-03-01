@@ -1,7 +1,7 @@
 package l2deserialize.topLevel.ForecastGroup;
 
+import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
-import org.simpleframework.xml.Text;
 
 /**
  * Created by Nicholas Goh on 01/03/14.
@@ -10,7 +10,7 @@ import org.simpleframework.xml.Text;
 @Root
 public class CloudPrecip {
 
-    @Text
+    @Element
     private String textSummary;
 
     public String getTextSummary() {
