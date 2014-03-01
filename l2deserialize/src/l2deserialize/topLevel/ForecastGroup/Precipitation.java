@@ -11,8 +11,9 @@ import org.simpleframework.xml.Root;
 @Root
 public class Precipitation {
 
-    // TODO: <textSummary/>
-
+    @Element
+    private String textSummary;
+    
     @Element
     PrecipType precipType;
 

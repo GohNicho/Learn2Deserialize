@@ -17,7 +17,6 @@ public class Temperatures {
     @Element
     private String textSummary;
 
-    // TODO: Check with Spencer when he wakes up
     @Element
     Temperature temperature;
 
