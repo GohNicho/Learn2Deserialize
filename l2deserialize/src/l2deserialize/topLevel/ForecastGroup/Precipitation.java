@@ -13,7 +13,7 @@ public class Precipitation {
 
     @Element
     private String textSummary;
-    
+
     @Element
     PrecipType precipType;
 
