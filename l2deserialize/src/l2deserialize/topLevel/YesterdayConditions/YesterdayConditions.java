@@ -1,4 +1,4 @@
-package l2deserialize.topLevel;
+package l2deserialize.topLevel.YesterdayConditions;
 
 import org.simpleframework.xml.Root;
 
@@ -7,6 +7,6 @@ import org.simpleframework.xml.Root;
  */
 
 @Root
-public class Almanac {
+public class YesterdayConditions {
 
 }

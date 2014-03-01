@@ -11,17 +11,25 @@ import org.simpleframework.xml.Text;
 @Root
 public class IconCode {
 
-    @Attribute
-    private String format;
+    @Attribute (name="format")
+    private String imgFormat;
 
     @Text
     private int code;
 
-    public String getFormat() {
-        return format;
+    public String getImgFormat() {
+        return imgFormat;
     }
 
-    public void setFormat(String format) {
-        this.format = format;
+    public void setImgFormat(String imgFormat) {
+        this.imgFormat = imgFormat;
+    }
+
+    public int getCode() {
+        return code;
+    }
+
+    public void setCode(int code) {
+        this.code = code;
     }
 }

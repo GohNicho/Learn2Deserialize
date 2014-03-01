@@ -12,40 +12,39 @@ import org.simpleframework.xml.Text;
 public class Station {
 
     @Attribute
-    private String locationCode;
+    private String code;
 
     @Attribute
-    private String latitude;
+    private String lat;
 
     @Attribute
-    private String longitude;
+    private String lon;
 
     @Text
     private String stationName;
 
-
-    public String getLocationCode() {
-        return locationCode;
+    public String getCode() {
+        return code;
     }
 
-    public void setLocationCode(String locationCode) {
-        this.locationCode = locationCode;
+    public void setCode(String code) {
+        this.code = code;
     }
 
-    public String getLatitude() {
-        return latitude;
+    public String getLat() {
+        return lat;
     }
 
-    public void setLatitude(String latitude) {
-        this.latitude = latitude;
+    public void setLat(String lat) {
+        this.lat = lat;
     }
 
-    public String getLongitude() {
-        return longitude;
+    public String getLon() {
+        return lon;
     }
 
-    public void setLongitude(String longitude) {
-        this.longitude = longitude;
+    public void setLon(String lon) {
+        this.lon = lon;
     }
 
     public String getStationName() {
