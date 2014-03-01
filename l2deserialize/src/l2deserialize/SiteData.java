@@ -1,47 +1,35 @@
 package l2deserialize;
 
+import l2deserialize.topLevel.*;
+import l2deserialize.topLevel.CurrentConditions.CurrentConditions;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
+
+import java.util.List;
 
 @Root
 public class SiteData {
 
     @ElementList(inline = true)
-    public list<dateTime> dateTimes {
-
-    }
+    public List<DateTime> dateTimes;
 
     @Element
-    public class Location {
-
-    }
+    Location location;
 
     @Element
-    public class CurrentConditions {
-
-    }
+    CurrentConditions currentConditions;
 
     @Element
-    public class ForecastGroup {
-
-    }
+    YesterdayConditions yesterdayConditions;
 
     @Element
-    public class YesterdayConditions {
-
-    }
+    ForecastGroup forecastGroup;
 
     @Element
-    public class RiseSet {
-
-    }
+    RiseSet riseSet;
 
     @Element
-    public class Almanac {
-        
-    }
-
-
+    Almanac almanac;
 
 }

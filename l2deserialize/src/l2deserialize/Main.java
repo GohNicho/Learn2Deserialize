@@ -10,6 +10,6 @@ public class Main {
         Serializer serializer = new Persister();
         File source = new File("s0000458_e.xml");
 
-        SiteDate siteData = serializer.read(siteDate.class, source);
+        SiteData siteData = serializer.read(SiteData.class, source);
     }
 }
