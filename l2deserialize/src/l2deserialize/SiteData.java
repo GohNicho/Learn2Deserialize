@@ -2,6 +2,8 @@ package l2deserialize;
 
 import l2deserialize.topLevel.*;
 import l2deserialize.topLevel.CurrentConditions.CurrentConditions;
+import l2deserialize.topLevel.ForecastGroup.ForecastGroup;
+import l2deserialize.topLevel.Location.Location;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
