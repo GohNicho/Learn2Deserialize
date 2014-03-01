@@ -10,6 +10,10 @@ public class Main {
         Serializer serializer = new Persister();
         File source = new File("s0000458_e.xml");
 
-        SiteData siteData = serializer.read(SiteData.class, source);
+        try {
+            SiteData siteData = serializer.read(SiteData.class, source);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
