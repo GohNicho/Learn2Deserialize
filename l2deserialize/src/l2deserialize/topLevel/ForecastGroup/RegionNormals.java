@@ -14,7 +14,7 @@ import java.util.List;
 @Root
 public class RegionNormals {
 
-    @Text
+    @Element
     private String textSummary;
 
     @ElementList(inline = true)

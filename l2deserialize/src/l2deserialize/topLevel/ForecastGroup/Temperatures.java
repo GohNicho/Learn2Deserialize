@@ -14,7 +14,7 @@ import org.simpleframework.xml.Text;
 @Root
 public class Temperatures {
 
-    @Text
+    @Element
     private String textSummary;
 
     // TODO: Check with Spencer when he wakes up

@@ -15,7 +15,7 @@ public class Forecast {
     @Element
     Period period;
 
-    @Text
+    @Element
     private String textSummary;
 
     // TODO: Check with Spencer when he's awake

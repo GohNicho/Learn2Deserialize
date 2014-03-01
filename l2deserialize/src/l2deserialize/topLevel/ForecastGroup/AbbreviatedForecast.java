@@ -18,7 +18,7 @@ public class AbbreviatedForecast {
     @Element
     Pop pop;
 
-    @Text
+    @Element
     private String textSummary;
 
     public IconCode getIconCode() {
