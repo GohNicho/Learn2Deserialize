@@ -2,8 +2,11 @@ package l2deserialize.topLevel.ForecastGroup;
 
 import l2deserialize.topLevel.CurrentConditions.RelativeHumidity;
 import org.simpleframework.xml.Element;
+import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
 import org.simpleframework.xml.Text;
+
+import java.util.List;
 
 /**
  * Created by Nicholas Goh on 01/03/14.
@@ -18,7 +21,6 @@ public class Forecast {
     @Element
     private String textSummary;
 
-    // TODO: Check with Spencer when he's awake
     @Element
     CloudPrecip cloudPrecip;
 
@@ -28,7 +30,8 @@ public class Forecast {
     @Element
     Temperatures temperatures;
 
-    // TODO: There's a weird <winds/> here, ask Spencer
+    @ElementList(inline = true)
+    List<Wind> winds;
 
     @Element
     Precipitation precipitation;

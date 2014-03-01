@@ -64,71 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RegionNormals.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/RegionNormals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="544">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Temperatures.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Temperatures.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="346" selection-end="346" vertical-scroll-proportion="0.2887139" vertical-offset="162" max-vertical-offset="629">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Almanac.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/Almanac/Almanac.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="37" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="714">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbbreviatedForecast.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/AbbreviatedForecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="697">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CloudPrecip.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/CloudPrecip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="19" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Forecast.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Forecast.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Forecast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="986">
+            <state line="33" column="20" selection-start="654" selection-end="654" vertical-scroll-proportion="0.3159204" vertical-offset="434" max-vertical-offset="1037">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,48 +75,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Temperature.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/Temperature.java">
+      <file leaf-file-name="Winds.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Winds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+            <state line="16" column="9" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="680">
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#406#407#0" expanded="false" />
-                <element signature="e#437#438#0" expanded="false" />
-                <element signature="e#485#486#0" expanded="false" />
-                <element signature="e#525#526#0" expanded="false" />
-                <element signature="e#557#558#0" expanded="false" />
-                <element signature="e#585#586#0" expanded="false" />
-                <element signature="e#627#628#0" expanded="false" />
-                <element signature="e#661#662#0" expanded="false" />
-                <element signature="e#692#693#0" expanded="false" />
-                <element signature="e#719#720#0" expanded="false" />
-                <element signature="e#759#760#0" expanded="false" />
-                <element signature="e#791#792#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RiseSet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/RiseSet/RiseSet.java">
+      <file leaf-file-name="Wind.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Wind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="26" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="595">
+            <state line="35" column="30" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="1060" max-vertical-offset="1513">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1106#1107#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1239#1240#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
+                <element signature="e#1363#1364#0" expanded="true" />
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#1475#1476#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Temperature.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Temperature.java">
+      <file leaf-file-name="CurrentConditions.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/CurrentConditions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="23" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="799">
+            <state line="49" column="12" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1360">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,13 +139,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Precipitation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Precipitation.java">
+      <file leaf-file-name="Wind.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/Wind/Wind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="39" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="510">
+            <state line="13" column="0" selection-start="247" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="663">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/l2deserialize/DateTime.java" />
-        <option value="$PROJECT_DIR$/src/l2deserialize/YesterdayConditions.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/RiseSet.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/Almanac.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/Main.java" />
@@ -255,9 +206,11 @@
         <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/Almanac/Precipitation.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/Almanac/Almanac.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/AbbreviatedForecast.java" />
-        <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Forecast.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/RegionNormals.java" />
         <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Temperatures.java" />
+        <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Wind.java" />
+        <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Winds.java" />
+        <option value="$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Forecast.java" />
       </list>
     </option>
   </component>
@@ -400,32 +353,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RiseSet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="l2deserialize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="l2deserialize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="l2deserialize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="topLevel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ForecastGroup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -452,7 +379,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Almanac" />
+              <option name="myItemId" value="CurrentConditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l2deserialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l2deserialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l2deserialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topLevel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CurrentConditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wind" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -668,14 +625,14 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -822,15 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/Wind/Wind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="23" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="663">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/Wind/Speed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="33" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="714">
@@ -888,15 +836,6 @@
         <state line="26" column="30" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="680">
           <folding>
             <element signature="e#494#495#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/CurrentConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0" vertical-offset="1172" max-vertical-offset="1734">
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1245,15 +1184,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Forecast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="986">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/RegionNormals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="12" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="544">
@@ -1265,7 +1195,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Temperatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="346" selection-end="346" vertical-scroll-proportion="0.2887139" vertical-offset="162" max-vertical-offset="629">
+        <state line="14" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="629">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="12" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1360">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/CurrentConditions/Wind/Wind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="247" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="663">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Wind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="30" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="1060" max-vertical-offset="1513">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Winds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="680">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2deserialize/topLevel/ForecastGroup/Forecast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="20" selection-start="654" selection-end="654" vertical-scroll-proportion="0.3159204" vertical-offset="434" max-vertical-offset="1037">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
