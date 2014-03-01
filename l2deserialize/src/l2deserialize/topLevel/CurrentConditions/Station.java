@@ -2,6 +2,7 @@ package l2deserialize.topLevel.CurrentConditions;
 
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Root;
+import org.simpleframework.xml.Text;
 
 /**
  * Created by Nicholas Goh on 01/03/14.
@@ -18,6 +19,9 @@ public class Station {
 
     @Attribute
     private String longitude;
+
+    @Text
+    private String stationName;
 
 
     public String getLocationCode() {
@@ -42,5 +46,13 @@ public class Station {
 
     public void setLongitude(String longitude) {
         this.longitude = longitude;
+    }
+
+    public String getStationName() {
+        return stationName;
+    }
+
+    public void setStationName(String stationName) {
+        this.stationName = stationName;
     }
 }
